@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e7d5e8;
+}
+
+p {
+    margin: 20px;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.img-fluid {
+    margin: 20px;
+}
